@@ -3,7 +3,7 @@
 1. ### Clone the repo:
 
 ~~~
-clone git@gitlab.lnu.se:1dv523/student/jy222bz/a02-crud-code-snippets.git
+clone git@github.com:jy222bz/a02-crud-code-snippets.git
 ~~~
 
 2. ### Install the dependencies:
